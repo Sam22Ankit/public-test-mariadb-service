@@ -1,0 +1,6 @@
+os: linux
+dist: jammy
+virt: vm
+arch: amd64
+addons:
+  mariadb: '10.0'
