@@ -3,4 +3,4 @@ dist: jammy
 virt: vm
 arch: amd64
 addons:
-  mariadb: '10.0'
+  mariadb: '10.9'
